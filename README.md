@@ -18,7 +18,7 @@ The dashboard is deployed on Power BI and can be accessed [here](https://app.pow
 ![Image](https://github.com/user-attachments/assets/268ed1dc-033b-4638-85f7-9d95bf6fa5af)
 
 ## Dataset
-- Webscraping from [ESPN cricinfo](https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;home_or_away=1;opposition=3;team=6;template=results;type=batting).
+- CSV file from [Google Drive](https://drive.google.com/file/d/1PpuWPloKOtTau5yG7QkXP2fuoDpQdXK4/view?usp=sharing) from [KRISHAI Technologies Private Limited](https://www.linkedin.com/company/krishai-technologies-private-limited/?originalSubdomain=in).
 
 <img width="370" height="466" alt="image" src="https://github.com/user-attachments/assets/7486ee75-9e37-4906-857f-4ff8094d7210" />
 
