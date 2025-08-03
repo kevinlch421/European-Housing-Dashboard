@@ -14,7 +14,7 @@ The dashboard is deployed on Power BI and can be accessed [here](https://app.pow
 
 ## Preview
 
-![Image](https://github.com/user-attachments/assets/1dc6d4e8-53df-44d9-866b-f1e1caf038f4)
+![Image](https://github.com/user-attachments/assets/268ed1dc-033b-4638-85f7-9d95bf6fa5af)
 
 ## Dataset
 - Webscraping from [ESPN cricinfo](https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;home_or_away=1;opposition=3;team=6;template=results;type=batting).
