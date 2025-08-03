@@ -22,13 +22,16 @@ The dashboard is deployed on Power BI and can be accessed [here](https://app.pow
 
 ## Features
 
-- **Batting and Feilding Data Visualization**: Explore batting statistics through dynamic graphs.
-- **Filter and Search**: Easily filter player names by date, product category, region, and more.
-- **Player Insights**: Gain detailed insights into individual player performances, including averages, strike rates, and milestone achievements.
-
+- **Market Dynamics Comparison**: Analyze regional price trends, affordability metrics, and growth patterns across 30+ countries
+- **Investment Performance Benchmarks**: Evaluate sales velocity, transaction volumes, and market efficiency metrics
+- **Property Type Analysis**: Compare ROI, price premiums, and appreciation rates for apartments vs. houses
+- **Geographic Filtering**: Drill down from continent to city level using interactive maps and region selectors
+- **Time-Series Exploration**: Examine market evolution from 2010-2023 with adjustable time sliders
+  
 ## Usage
 To use the dashboard:
-- Access the Power BI link provided in the Deployment section.
-- Use the filters and slicers to select specific players, teams, or time periods.
-- Interact with the visualizations to explore different aspects of the batting statistics.
-- Export data as needed for further analysis.
+- **Access** - Open the Power BI file or web link provided in the Deployment section
+- **Filter** - Select countries, property types, and time periods using the control panel
+- **Explore** - Navigate between the three main tabs
+- **Interact** - Click on map regions or chart elements to cross-filter views
+- **Export** - Right-click any visual to extract data for further analysis
