@@ -6,7 +6,7 @@
 
 ## Overview
 
-The ESPN Cricket Dashboard is a data visualization and analysis project that uses web-scraped data from ESPN to create an interactive dashboard. This dashboard focuses on batting and fielding statistics from the India and South Africa cricket teams. Built with DAX functions and Power BI, it provides an intuitive interface for users to explore and analyze cricket performance metrics.
+The **Housing in Europe Dashboard** is an interactive Power BI project that helps users understand housing markets across European countries. It answers key questions about **property trends, sales performance, and investment opportunities**. Built using Power BI with DAX calculations and Power Query data processing, it transforms complex housing data into clear visual insights for practical business use.
 
 ## Deployment
 
