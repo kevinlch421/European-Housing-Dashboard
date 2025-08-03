@@ -20,8 +20,6 @@ The dashboard is deployed on Power BI and can be accessed [here](https://app.pow
 ## Dataset
 - CSV file from [Google Drive](https://drive.google.com/file/d/1PpuWPloKOtTau5yG7QkXP2fuoDpQdXK4/view?usp=sharing) from [KRISHAI Technologies Private Limited](https://www.linkedin.com/company/krishai-technologies-private-limited/?originalSubdomain=in).
 
-<img width="370" height="466" alt="image" src="https://github.com/user-attachments/assets/7486ee75-9e37-4906-857f-4ff8094d7210" />
-
 ## Features
 
 - **Batting and Feilding Data Visualization**: Explore batting statistics through dynamic graphs.
