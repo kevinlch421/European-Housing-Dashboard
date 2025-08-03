@@ -10,7 +10,8 @@ The **Housing in Europe Dashboard** is an interactive Power BI project that help
 
 ## Deployment
 
-The dashboard is deployed on Power BI and can be accessed [here](https://app.powerbi.com/links/c5dQtEafKS?ctid=d6b133e3-eec7-4dbd-93ff-cb50b1d6dad2&pbi_source=linkShare&bookmarkGuid=942874be-11b1-4e31-8527-124a62ad7f48).
+The dashboard is deployed on Power BI and can be accessed [here](https://app.powerbi.com/links/u5QkWjcJK0?ctid=d6b133e3-eec7-4dbd-93ff-cb50b1d6dad2&pbi_source=linkShare&bookmarkGuid=1a0fb105-59d1-41e6-af63-3318ce965ced).
+
 
 ## Preview
 
